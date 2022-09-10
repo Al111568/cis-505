@@ -4,7 +4,7 @@
     Modified by R. Krasso 2021
     Additional modifications by A. Burgos 2022
  */
-public class Assignment1 {
+public class BurgosHelloWorld {
     /**
      * Method with two arguments, used to print the user's first and last name.
      * @param firstName String 
@@ -19,3 +19,4 @@ public class Assignment1 {
         myName("Alvaro", "Burgos"); // Call the myName() method with the values "Alvaro" and "Burgos."
     } // end main
 } // end Assignment1
+
